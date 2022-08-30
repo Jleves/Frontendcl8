@@ -1,0 +1,84 @@
+/********Cuerpo pagina***********/
+body{
+    width: 2045px;
+    height: 100%;
+}
+
+
+/*************Titulos principal***********/
+h1 {
+    position: relative;
+    background-color: rgba(50, 168, 82, 0.8);
+    color: rgb(117, 95, 29);
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 40px;
+    font-family: 'Aboreto', cursive;
+    top: 0px;
+}
+
+
+/******Subtitulos******/
+
+.subtitulos {
+    background-color: rgba(50, 168, 82, 0.8);
+    color: rgb(100, 81, 21);
+    letter-spacing: 7px;
+    font-size: 25px;
+    font-family: 'Aboreto', cursive;
+    text-align: center;
+}
+
+.logo {
+    position: relative;
+    width: 150px;
+    border-style: groove;
+    border-style: ridge;
+    border-radius: 80%;
+    text-align: center;
+    top: 50px;
+
+}
+
+header {
+    
+    text-align: center;
+    background-image: url("https://s1.1zoom.me/b5454/525/Forests_Autumn_Trees_Foliage_Table_Bench_537168_1920x1080.jpg");
+    background-position: center, bottom;
+    height: 320px;
+    opacity: 0.8;
+   
+}
+.cartel{
+    position: absolute;
+    height: 200px;
+    top: 105px;
+    left: 150px;
+}
+.sobremi{
+    position: absolute;
+    height: 200px;
+    top: 180px;
+    left: 200px;
+    color: white;
+    font-size: 25px;
+    font-family:'Aboreto', cursive ;
+    text-decoration: none;
+}
+.cuerpo {
+    background-image: url(https://img.freepik.com/vector-gratis/elegante-fondo-pintado-mano-purpurina-dorada-diseno-tinta-alcohol_1048-15333.jpg?w=2000);
+    height: 100%;
+}
+
+
+footer {
+    background-color: rgba(50, 168, 82, 0.8);
+}
+
+.texto {
+    font-size: 20px;
+}
+
+.negrita {
+    font-weight: bolder;
+}
